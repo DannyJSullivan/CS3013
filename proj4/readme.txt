@@ -1,5 +1,7 @@
 Daniel Sullivan (djsullivan) and Przemek Gardias (pmgardias)
 
+***SWAPPING DOES NOT WORK CORRECTLY***
+
 GENERAL
 
 This program is a virtual memory manager. It simulates memory being mapped, stored, loaded, and swapped. It is composed of a singular mng.c file. The program creates a disk.txt file when run to use to emulate a disk space. 
