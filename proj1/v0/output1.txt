@@ -1,0 +1,99 @@
+
+===== Mid Day Commander, v0 =====
+
+G'day, Commander! What command would you like to run?
+	0. whoami : Prints out the result of the whoami command
+	1. last   : Prints out the result of the last command
+	2. ls     : Prints out the result of a listing on a user-specified path
+Option?: 
+-- Who Am I? --
+pmgardias
+
+-- Statistics ---
+Elapsed time: 0.7510 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 101
+
+G'day, Commander! What command would you like to run?
+	0. whoami : Prints out the result of the whoami command
+	1. last   : Prints out the result of the last command
+	2. ls     : Prints out the result of a listing on a user-specified path
+Option?: 
+-- Last Logins --
+pmgardia tty7         :0               Wed Jan 24 20:37    gone - no logout
+
+wtmp begins Fri Jan  5 17:11:16 2018
+
+-- Statistics ---
+Elapsed time: 0.9940 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 121
+
+G'day, Commander! What command would you like to run?
+	0. whoami : Prints out the result of the whoami command
+	1. last   : Prints out the result of the last command
+	2. ls     : Prints out the result of a listing on a user-specified path
+Option?: 
+-- Directory Listing --
+Arguments?: Path?: 
+total 108
+drwxr-xr-x  24 root root  4096 Jan 23 11:35 .
+drwxr-xr-x  24 root root  4096 Jan 23 11:35 ..
+drwxr-xr-x   2 root root  4096 Jan  5 17:16 bin
+drwxr-xr-x   3 root root  4096 Jan 23 11:36 boot
+drwxrwxr-x   2 root root  4096 Jan  5 17:08 cdrom
+drwxr-xr-x  18 root root  3920 Jan 24 15:17 dev
+drwxr-xr-x 135 root root 12288 Jan 24 12:38 etc
+drwxr-xr-x   4 root root  4096 Jan 13 17:53 home
+lrwxrwxrwx   1 root root    33 Jan 23 11:35 initrd.img -> boot/initrd.img-4.13.0-31-generic
+lrwxrwxrwx   1 root root    33 Jan 13 17:52 initrd.img.old -> boot/initrd.img-4.13.0-26-generic
+drwxr-xr-x  22 root root  4096 Jan  5 17:15 lib
+drwxr-xr-x   2 root root  4096 Jan 17 15:24 lib64
+drwx------   2 root root 16384 Jan  5 17:06 lost+found
+drwxr-xr-x   5 root root  4096 Jan 14 18:50 media
+drwxr-xr-x   2 root root  4096 Aug  1 07:17 mnt
+drwxr-xr-x   3 root root  4096 Jan 14 18:50 opt
+dr-xr-xr-x 225 root root     0 Jan 24 12:38 proc
+drwx------   4 root root  4096 Jan  5 17:12 root
+drwxr-xr-x  25 root root   820 Jan 24 15:29 run
+drwxr-xr-x   2 root root 12288 Jan 17 15:24 sbin
+drwxr-xr-x   2 root root  4096 Apr 29  2017 snap
+drwxr-xr-x   2 root root  4096 Aug  1 07:17 srv
+dr-xr-xr-x  13 root root     0 Jan 24 19:13 sys
+drwxrwxrwt  11 root root  4096 Jan 24 21:03 tmp
+drwxr-xr-x  11 root root  4096 Aug  1 07:24 usr
+drwxr-xr-x  14 root root  4096 Aug  1 07:34 var
+lrwxrwxrwx   1 root root    30 Jan 23 11:35 vmlinuz -> boot/vmlinuz-4.13.0-31-generic
+lrwxrwxrwx   1 root root    30 Jan 13 17:52 vmlinuz.old -> boot/vmlinuz-4.13.0-26-generic
+
+-- Statistics ---
+Elapsed time: 1.6620 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 143
+
+G'day, Commander! What command would you like to run?
+	0. whoami : Prints out the result of the whoami command
+	1. last   : Prints out the result of the last command
+	2. ls     : Prints out the result of a listing on a user-specified path
+Option?: 
+-- Directory Listing --
+Arguments?: Path?: 
+total 668
+drwxr-xr-x  2 root root   4096 Aug  1 07:23 .
+drwxr-xr-x 11 root root   4096 Aug  1 07:24 ..
+-rwxr-xr-x  1 root root   1563 May  6  2015 espdiff
+-rwxr-xr-x  1 root root 106872 Nov  2  2015 gnome-mahjongg
+-rwxr-xr-x  1 root root 110984 Feb 11  2016 gnome-mines
+-rwxr-xr-x  1 root root 161120 Aug 25  2016 gnome-sudoku
+-rwxr-xr-x  1 root root 281848 Nov 11  2015 sol
+
+-- Statistics ---
+Elapsed time: 1.4830 milliseconds
+Page Faults: 0
+Page Faults (reclaimed): 141
+
+G'day, Commander! What command would you like to run?
+	0. whoami : Prints out the result of the whoami command
+	1. last   : Prints out the result of the last command
+	2. ls     : Prints out the result of a listing on a user-specified path
+Option?:

@@ -1,0 +1,16 @@
+a
+sleep 3
+a
+sleep 2
+a
+sleep 1
+3
+4
+5
+p
+c
+/sys
+p
+c
+/usr/games
+p

@@ -1,0 +1,4009 @@
+Starting simulation with 1000 user(s):
+Thread 14 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 38 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 39 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 15 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 460µs , Average: 460µs , Maximum: 460µs  
+-----------------------------
+Thread 20 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 459µs , Average: 459µs , Maximum: 459µs  
+-----------------------------
+Thread 32 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 467µs , Average: 467µs , Maximum: 467µs  
+-----------------------------
+Thread 4 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 466µs , Average: 466µs , Maximum: 466µs  
+-----------------------------
+Thread 33 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 467µs , Average: 467µs , Maximum: 467µs  
+-----------------------------
+Thread 36 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 465µs , Average: 465µs , Maximum: 465µs  
+-----------------------------
+Thread 40 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 464µs , Average: 464µs , Maximum: 464µs  
+-----------------------------
+Thread 43 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 49 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 51 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 3 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 60 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 72 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 73 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 78 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 79 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 81 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 82 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 116 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 92 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 107 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 52 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 109 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 108 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 119 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 148 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 160 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 10 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 459µs , Average: 459µs , Maximum: 459µs  
+-----------------------------
+Thread 11 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 459µs , Average: 459µs , Maximum: 459µs  
+-----------------------------
+Thread 137 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 19 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 458µs , Average: 458µs , Maximum: 458µs  
+-----------------------------
+Thread 30 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 455µs , Average: 455µs , Maximum: 455µs  
+-----------------------------
+Thread 53 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 67 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 68 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 69 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 155 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 42 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 463µs , Average: 463µs , Maximum: 463µs  
+-----------------------------
+Thread 97 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 147 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 150 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 157 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 7 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 465µs , Average: 465µs , Maximum: 465µs  
+-----------------------------
+Thread 5 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 458µs , Average: 458µs , Maximum: 458µs  
+-----------------------------
+Thread 24 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 458µs , Average: 458µs , Maximum: 458µs  
+-----------------------------
+Thread 48 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 57 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 64 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 76 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 80 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 83 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 86 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 111 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 134 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 138 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 127 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 143 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 132 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 1 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 170 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 89 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 101 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 95 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 117 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 90 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 121 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 152 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 136 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 182 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 204 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 206 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 207 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 210 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 214 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 29 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 454µs , Average: 454µs , Maximum: 454µs  
+-----------------------------
+Thread 37 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 465µs , Average: 465µs , Maximum: 465µs  
+-----------------------------
+Thread 27 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 455µs , Average: 455µs , Maximum: 455µs  
+-----------------------------
+Thread 70 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 31 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 456µs , Average: 456µs , Maximum: 456µs  
+-----------------------------
+Thread 12 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 462µs , Average: 462µs , Maximum: 462µs  
+-----------------------------
+Thread 75 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 105 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 126 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 149 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 146 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 224 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 229 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 22 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 458µs , Average: 458µs , Maximum: 458µs  
+-----------------------------
+Thread 98 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 0 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 183 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 205 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 235 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 220 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 223 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 225 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 230 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 252 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 258 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 74 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 88 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 153 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 113 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 140 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 181 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 188 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 192 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 151 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 156 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 193 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 167 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 199 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 177 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 168 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 190 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 222 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 228 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 245 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 260 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 139 terminated! 
+Gender: Male, # of loops: 7 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 173 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 196 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 215 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 217 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 236 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 233 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 164 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 219 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 226 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 244 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 246 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 263 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 265 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 268 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 271 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 200 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 186 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 239 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 262 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 272 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 118 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 114 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14951µs , Average: 14951µs , Maximum: 14951µs  
+-----------------------------
+Thread 122 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 65 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14958µs , Average: 14958µs , Maximum: 14958µs  
+-----------------------------
+Thread 9 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 13954µs , Average: 13954µs , Maximum: 13954µs  
+-----------------------------
+Thread 103 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14960µs , Average: 14960µs , Maximum: 14960µs  
+-----------------------------
+Thread 130 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14966µs , Average: 14966µs , Maximum: 14966µs  
+-----------------------------
+Thread 154 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14968µs , Average: 14968µs , Maximum: 14968µs  
+-----------------------------
+Thread 141 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14976µs , Average: 14976µs , Maximum: 14976µs  
+-----------------------------
+Thread 99 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14962µs , Average: 14962µs , Maximum: 14962µs  
+-----------------------------
+Thread 162 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14969µs , Average: 14969µs , Maximum: 14969µs  
+-----------------------------
+Thread 23 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 13923µs , Average: 13923µs , Maximum: 13923µs  
+-----------------------------
+Thread 110 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14955µs , Average: 14955µs , Maximum: 14955µs  
+-----------------------------
+Thread 66 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14959µs , Average: 14959µs , Maximum: 14959µs  
+-----------------------------
+Thread 115 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14952µs , Average: 14952µs , Maximum: 14952µs  
+-----------------------------
+Thread 129 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14967µs , Average: 14967µs , Maximum: 14967µs  
+-----------------------------
+Thread 56 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 158 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14972µs , Average: 14972µs , Maximum: 14972µs  
+-----------------------------
+Thread 62 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14956µs , Average: 14956µs , Maximum: 14956µs  
+-----------------------------
+Thread 55 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 14948µs , Average: 14948µs , Maximum: 14948µs  
+-----------------------------
+Thread 171 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12326µs , Average: 12326µs , Maximum: 12326µs  
+-----------------------------
+Thread 174 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12328µs , Average: 12328µs , Maximum: 12328µs  
+-----------------------------
+Thread 179 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12340µs , Average: 12340µs , Maximum: 12340µs  
+-----------------------------
+Thread 184 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12338µs , Average: 12338µs , Maximum: 12338µs  
+-----------------------------
+Thread 187 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12339µs , Average: 12339µs , Maximum: 12339µs  
+-----------------------------
+Thread 191 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12341µs , Average: 12341µs , Maximum: 12341µs  
+-----------------------------
+Thread 202 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12343µs , Average: 12343µs , Maximum: 12343µs  
+-----------------------------
+Thread 203 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12345µs , Average: 12345µs , Maximum: 12345µs  
+-----------------------------
+Thread 212 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 12345µs , Average: 12345µs , Maximum: 12345µs  
+-----------------------------
+Thread 221 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 11798µs , Average: 11798µs , Maximum: 11798µs  
+-----------------------------
+Thread 227 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 11793µs , Average: 11793µs , Maximum: 11793µs  
+-----------------------------
+Thread 165 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 11792µs , Average: 11792µs , Maximum: 11792µs  
+-----------------------------
+Thread 241 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 10776µs , Average: 10776µs , Maximum: 10776µs  
+-----------------------------
+Thread 251 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 10630µs , Average: 10630µs , Maximum: 10630µs  
+-----------------------------
+Thread 8 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13956µs , Average: 13956µs , Maximum: 13956µs  
+-----------------------------
+Thread 16 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13935µs , Average: 13935µs , Maximum: 13935µs  
+-----------------------------
+Thread 41 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13853µs , Average: 13853µs , Maximum: 13853µs  
+-----------------------------
+Thread 125 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14952µs , Average: 14952µs , Maximum: 14952µs  
+-----------------------------
+Thread 26 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13924µs , Average: 13924µs , Maximum: 13924µs  
+-----------------------------
+Thread 21 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13923µs , Average: 13923µs , Maximum: 13923µs  
+-----------------------------
+Thread 17 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13936µs , Average: 13936µs , Maximum: 13936µs  
+-----------------------------
+Thread 18 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13935µs , Average: 13935µs , Maximum: 13935µs  
+-----------------------------
+Thread 71 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14956µs , Average: 14956µs , Maximum: 14956µs  
+-----------------------------
+Thread 87 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 128 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14974µs , Average: 14974µs , Maximum: 14974µs  
+-----------------------------
+Thread 77 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14951µs , Average: 14951µs , Maximum: 14951µs  
+-----------------------------
+Thread 28 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13924µs , Average: 13924µs , Maximum: 13924µs  
+-----------------------------
+Thread 13 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13950µs , Average: 13950µs , Maximum: 13950µs  
+-----------------------------
+Thread 35 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 13879µs , Average: 13879µs , Maximum: 13879µs  
+-----------------------------
+Thread 47 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14942µs , Average: 14942µs , Maximum: 14942µs  
+-----------------------------
+Thread 45 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14845µs , Average: 14845µs , Maximum: 14845µs  
+-----------------------------
+Thread 59 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14952µs , Average: 14952µs , Maximum: 14952µs  
+-----------------------------
+Thread 63 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14956µs , Average: 14956µs , Maximum: 14956µs  
+-----------------------------
+Thread 135 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14969µs , Average: 14969µs , Maximum: 14969µs  
+-----------------------------
+Thread 50 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14949µs , Average: 14949µs , Maximum: 14949µs  
+-----------------------------
+Thread 96 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14956µs , Average: 14956µs , Maximum: 14956µs  
+-----------------------------
+Thread 144 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 14977µs , Average: 14977µs , Maximum: 14977µs  
+-----------------------------
+Thread 172 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12328µs , Average: 12328µs , Maximum: 12328µs  
+-----------------------------
+Thread 195 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12341µs , Average: 12341µs , Maximum: 12341µs  
+-----------------------------
+Thread 197 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12340µs , Average: 12340µs , Maximum: 12340µs  
+-----------------------------
+Thread 208 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12341µs , Average: 12341µs , Maximum: 12341µs  
+-----------------------------
+Thread 211 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12344µs , Average: 12344µs , Maximum: 12344µs  
+-----------------------------
+Thread 213 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12347µs , Average: 12347µs , Maximum: 12347µs  
+-----------------------------
+Thread 218 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 11798µs , Average: 11798µs , Maximum: 11798µs  
+-----------------------------
+Thread 166 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 11800µs , Average: 11800µs , Maximum: 11800µs  
+-----------------------------
+Thread 243 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 10628µs , Average: 10628µs , Maximum: 10628µs  
+-----------------------------
+Thread 250 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 11121µs , Average: 11121µs , Maximum: 11121µs  
+-----------------------------
+Thread 58 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 169 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 12327µs , Average: 12327µs , Maximum: 12327µs  
+-----------------------------
+Thread 94 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14958µs , Average: 14958µs , Maximum: 14958µs  
+-----------------------------
+Thread 120 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14949µs , Average: 14949µs , Maximum: 14949µs  
+-----------------------------
+Thread 124 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14954µs , Average: 14954µs , Maximum: 14954µs  
+-----------------------------
+Thread 145 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14972µs , Average: 14972µs , Maximum: 14972µs  
+-----------------------------
+Thread 104 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14956µs , Average: 14956µs , Maximum: 14956µs  
+-----------------------------
+Thread 142 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14965µs , Average: 14965µs , Maximum: 14965µs  
+-----------------------------
+Thread 93 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14957µs , Average: 14957µs , Maximum: 14957µs  
+-----------------------------
+Thread 84 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14947µs , Average: 14947µs , Maximum: 14947µs  
+-----------------------------
+Thread 163 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14970µs , Average: 14970µs , Maximum: 14970µs  
+-----------------------------
+Thread 123 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 14949µs , Average: 14949µs , Maximum: 14949µs  
+-----------------------------
+Thread 44 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 17188µs , Average: 17188µs , Maximum: 17188µs  
+-----------------------------
+Thread 175 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 12335µs , Average: 12335µs , Maximum: 12335µs  
+-----------------------------
+Thread 102 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14951µs , Average: 14951µs , Maximum: 14951µs  
+-----------------------------
+Thread 178 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 12337µs , Average: 12337µs , Maximum: 12337µs  
+-----------------------------
+Thread 189 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 12340µs , Average: 12340µs , Maximum: 12340µs  
+-----------------------------
+Thread 201 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 12341µs , Average: 12341µs , Maximum: 12341µs  
+-----------------------------
+Thread 240 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 10777µs , Average: 10777µs , Maximum: 10777µs  
+-----------------------------
+Thread 267 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 11302µs , Average: 11302µs , Maximum: 11302µs  
+-----------------------------
+Thread 291 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 159 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14968µs , Average: 14968µs , Maximum: 14968µs  
+-----------------------------
+Thread 100 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14950µs , Average: 14950µs , Maximum: 14950µs  
+-----------------------------
+Thread 112 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14952µs , Average: 14952µs , Maximum: 14952µs  
+-----------------------------
+Thread 133 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14968µs , Average: 14968µs , Maximum: 14968µs  
+-----------------------------
+Thread 25 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 13922µs , Average: 13922µs , Maximum: 13922µs  
+-----------------------------
+Thread 46 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14906µs , Average: 14906µs , Maximum: 14906µs  
+-----------------------------
+Thread 61 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14953µs , Average: 14953µs , Maximum: 14953µs  
+-----------------------------
+Thread 91 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14964µs , Average: 14964µs , Maximum: 14964µs  
+-----------------------------
+Thread 131 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14967µs , Average: 14967µs , Maximum: 14967µs  
+-----------------------------
+Thread 34 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 13877µs , Average: 13877µs , Maximum: 13877µs  
+-----------------------------
+Thread 281 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 286 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 85 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 14949µs , Average: 14949µs , Maximum: 14949µs  
+-----------------------------
+Thread 2 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 14945µs , Average: 14945µs , Maximum: 14945µs  
+-----------------------------
+Thread 194 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 12340µs , Average: 12340µs , Maximum: 12340µs  
+-----------------------------
+Thread 209 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 12343µs , Average: 12343µs , Maximum: 12343µs  
+-----------------------------
+Thread 185 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 12340µs , Average: 12340µs , Maximum: 12340µs  
+-----------------------------
+Thread 232 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10776µs , Average: 10776µs , Maximum: 10776µs  
+-----------------------------
+Thread 234 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10780µs , Average: 10780µs , Maximum: 10780µs  
+-----------------------------
+Thread 237 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10778µs , Average: 10778µs , Maximum: 10778µs  
+-----------------------------
+Thread 231 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10780µs , Average: 10780µs , Maximum: 10780µs  
+-----------------------------
+Thread 255 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10631µs , Average: 10631µs , Maximum: 10631µs  
+-----------------------------
+Thread 257 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10626µs , Average: 10626µs , Maximum: 10626µs  
+-----------------------------
+Thread 259 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 12226µs , Average: 12226µs , Maximum: 12226µs  
+-----------------------------
+Thread 264 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 11300µs , Average: 11300µs , Maximum: 11300µs  
+-----------------------------
+Thread 282 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 314 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 315 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 323 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 326 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 328 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 333 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 340 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 106 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 14953µs , Average: 14953µs , Maximum: 14953µs  
+-----------------------------
+Thread 161 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 14975µs , Average: 14975µs , Maximum: 14975µs  
+-----------------------------
+Thread 247 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10635µs , Average: 10635µs , Maximum: 10635µs  
+-----------------------------
+Thread 248 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10638µs , Average: 10638µs , Maximum: 10638µs  
+-----------------------------
+Thread 249 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10632µs , Average: 10632µs , Maximum: 10632µs  
+-----------------------------
+Thread 254 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 10633µs , Average: 10633µs , Maximum: 10633µs  
+-----------------------------
+Thread 253 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 11147µs , Average: 11147µs , Maximum: 11147µs  
+-----------------------------
+Thread 294 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 295 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 287 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 303 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 302 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 343 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 352 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 216 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 12347µs , Average: 12347µs , Maximum: 12347µs  
+-----------------------------
+Thread 198 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 12342µs , Average: 12342µs , Maximum: 12342µs  
+-----------------------------
+Thread 180 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 12342µs , Average: 12342µs , Maximum: 12342µs  
+-----------------------------
+Thread 176 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 12336µs , Average: 12336µs , Maximum: 12336µs  
+-----------------------------
+Thread 54 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 14945µs , Average: 14945µs , Maximum: 14945µs  
+-----------------------------
+Thread 6 terminated! 
+Gender: Female, # of loops: 7 
+Queue times: Minimum: 13950µs , Average: 13950µs , Maximum: 13950µs  
+-----------------------------
+Thread 238 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 10776µs , Average: 10776µs , Maximum: 10776µs  
+-----------------------------
+Thread 256 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 10624µs , Average: 10624µs , Maximum: 10624µs  
+-----------------------------
+Thread 261 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 11301µs , Average: 11301µs , Maximum: 11301µs  
+-----------------------------
+Thread 270 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 11306µs , Average: 11306µs , Maximum: 11306µs  
+-----------------------------
+Thread 275 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 277 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 283 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 308 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 311 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 319 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 324 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 335 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 356 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 358 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 242 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 10776µs , Average: 10776µs , Maximum: 10776µs  
+-----------------------------
+Thread 284 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 266 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 11300µs , Average: 11300µs , Maximum: 11300µs  
+-----------------------------
+Thread 269 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 11303µs , Average: 11303µs , Maximum: 11303µs  
+-----------------------------
+Thread 298 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 279 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 341 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 345 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 373 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 296 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 297 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 329 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 330 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 331 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 300 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 293 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 304 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 344 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 384 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 423 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 403 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 428 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 435 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 327 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 317 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 336 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 318 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 307 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 353 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 342 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 347 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 349 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 276 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 7495µs , Average: 7495µs , Maximum: 7495µs  
+-----------------------------
+Thread 278 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 7495µs , Average: 7495µs , Maximum: 7495µs  
+-----------------------------
+Thread 289 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 7140µs , Average: 7140µs , Maximum: 7140µs  
+-----------------------------
+Thread 285 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 7129µs , Average: 7129µs , Maximum: 7129µs  
+-----------------------------
+Thread 306 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5789µs , Average: 5789µs , Maximum: 5789µs  
+-----------------------------
+Thread 325 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5790µs , Average: 5790µs , Maximum: 5790µs  
+-----------------------------
+Thread 334 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5784µs , Average: 5784µs , Maximum: 5784µs  
+-----------------------------
+Thread 337 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5783µs , Average: 5783µs , Maximum: 5783µs  
+-----------------------------
+Thread 348 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5779µs , Average: 5779µs , Maximum: 5779µs  
+-----------------------------
+Thread 350 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5779µs , Average: 5779µs , Maximum: 5779µs  
+-----------------------------
+Thread 362 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5007µs , Average: 5007µs , Maximum: 5007µs  
+-----------------------------
+Thread 366 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5006µs , Average: 5006µs , Maximum: 5006µs  
+-----------------------------
+Thread 378 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5010µs , Average: 5010µs , Maximum: 5010µs  
+-----------------------------
+Thread 381 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 3643µs , Average: 3643µs , Maximum: 3643µs  
+-----------------------------
+Thread 413 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 3646µs , Average: 3646µs , Maximum: 3646µs  
+-----------------------------
+Thread 391 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 3648µs , Average: 3648µs , Maximum: 3648µs  
+-----------------------------
+Thread 417 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 3646µs , Average: 3646µs , Maximum: 3646µs  
+-----------------------------
+Thread 274 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 7467µs , Average: 7467µs , Maximum: 7467µs  
+-----------------------------
+Thread 430 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 3646µs , Average: 3646µs , Maximum: 3646µs  
+-----------------------------
+Thread 292 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 7117µs , Average: 7117µs , Maximum: 7117µs  
+-----------------------------
+Thread 273 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 7096µs , Average: 7096µs , Maximum: 7096µs  
+-----------------------------
+Thread 305 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5788µs , Average: 5788µs , Maximum: 5788µs  
+-----------------------------
+Thread 309 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5787µs , Average: 5787µs , Maximum: 5787µs  
+-----------------------------
+Thread 312 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5789µs , Average: 5789µs , Maximum: 5789µs  
+-----------------------------
+Thread 332 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5784µs , Average: 5784µs , Maximum: 5784µs  
+-----------------------------
+Thread 338 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5784µs , Average: 5784µs , Maximum: 5784µs  
+-----------------------------
+Thread 359 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5278µs , Average: 5278µs , Maximum: 5278µs  
+-----------------------------
+Thread 377 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5008µs , Average: 5008µs , Maximum: 5008µs  
+-----------------------------
+Thread 369 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5006µs , Average: 5006µs , Maximum: 5006µs  
+-----------------------------
+Thread 361 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5008µs , Average: 5008µs , Maximum: 5008µs  
+-----------------------------
+Thread 374 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5005µs , Average: 5005µs , Maximum: 5005µs  
+-----------------------------
+Thread 383 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 3644µs , Average: 3644µs , Maximum: 3644µs  
+-----------------------------
+Thread 396 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 3644µs , Average: 3644µs , Maximum: 3644µs  
+-----------------------------
+Thread 439 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 299 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 7113µs , Average: 7113µs , Maximum: 7113µs  
+-----------------------------
+Thread 288 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 7140µs , Average: 7140µs , Maximum: 7140µs  
+-----------------------------
+Thread 290 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 7112µs , Average: 7112µs , Maximum: 7112µs  
+-----------------------------
+Thread 310 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5789µs , Average: 5789µs , Maximum: 5789µs  
+-----------------------------
+Thread 316 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5789µs , Average: 5789µs , Maximum: 5789µs  
+-----------------------------
+Thread 320 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5787µs , Average: 5787µs , Maximum: 5787µs  
+-----------------------------
+Thread 322 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5791µs , Average: 5791µs , Maximum: 5791µs  
+-----------------------------
+Thread 339 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5786µs , Average: 5786µs , Maximum: 5786µs  
+-----------------------------
+Thread 346 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5779µs , Average: 5779µs , Maximum: 5779µs  
+-----------------------------
+Thread 354 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5780µs , Average: 5780µs , Maximum: 5780µs  
+-----------------------------
+Thread 360 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5279µs , Average: 5279µs , Maximum: 5279µs  
+-----------------------------
+Thread 408 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 3642µs , Average: 3642µs , Maximum: 3642µs  
+-----------------------------
+Thread 397 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 3646µs , Average: 3646µs , Maximum: 3646µs  
+-----------------------------
+Thread 301 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 7112µs , Average: 7112µs , Maximum: 7112µs  
+-----------------------------
+Thread 280 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 7495µs , Average: 7495µs , Maximum: 7495µs  
+-----------------------------
+Thread 371 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5006µs , Average: 5006µs , Maximum: 5006µs  
+-----------------------------
+Thread 372 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 5010µs , Average: 5010µs , Maximum: 5010µs  
+-----------------------------
+Thread 402 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3644µs , Average: 3644µs , Maximum: 3644µs  
+-----------------------------
+Thread 419 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3647µs , Average: 3647µs , Maximum: 3647µs  
+-----------------------------
+Thread 414 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3643µs , Average: 3643µs , Maximum: 3643µs  
+-----------------------------
+Thread 426 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3651µs , Average: 3651µs , Maximum: 3651µs  
+-----------------------------
+Thread 422 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3645µs , Average: 3645µs , Maximum: 3645µs  
+-----------------------------
+Thread 438 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 367 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 5008µs , Average: 5008µs , Maximum: 5008µs  
+-----------------------------
+Thread 321 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 5790µs , Average: 5790µs , Maximum: 5790µs  
+-----------------------------
+Thread 351 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 5780µs , Average: 5780µs , Maximum: 5780µs  
+-----------------------------
+Thread 420 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3648µs , Average: 3648µs , Maximum: 3648µs  
+-----------------------------
+Thread 392 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3644µs , Average: 3644µs , Maximum: 3644µs  
+-----------------------------
+Thread 431 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3647µs , Average: 3647µs , Maximum: 3647µs  
+-----------------------------
+Thread 375 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 5011µs , Average: 5011µs , Maximum: 5011µs  
+-----------------------------
+Thread 416 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3645µs , Average: 3645µs , Maximum: 3645µs  
+-----------------------------
+Thread 410 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 3647µs , Average: 3647µs , Maximum: 3647µs  
+-----------------------------
+Thread 313 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 5791µs , Average: 5791µs , Maximum: 5791µs  
+-----------------------------
+Thread 370 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 3986µs , Average: 3986µs , Maximum: 3986µs  
+-----------------------------
+Thread 424 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3651µs , Average: 3651µs , Maximum: 3651µs  
+-----------------------------
+Thread 401 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3649µs , Average: 3649µs , Maximum: 3649µs  
+-----------------------------
+Thread 415 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3652µs , Average: 3652µs , Maximum: 3652µs  
+-----------------------------
+Thread 440 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 501 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 500 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 489 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 465 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 513 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 480 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 460 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 467 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 425 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3649µs , Average: 3649µs , Maximum: 3649µs  
+-----------------------------
+Thread 432 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3650µs , Average: 3650µs , Maximum: 3650µs  
+-----------------------------
+Thread 418 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 3649µs , Average: 3649µs , Maximum: 3649µs  
+-----------------------------
+Thread 433 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 3642µs , Average: 3642µs , Maximum: 3642µs  
+-----------------------------
+Thread 409 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 3646µs , Average: 3646µs , Maximum: 3646µs  
+-----------------------------
+Thread 472 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 476 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 454 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 394 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 3644µs , Average: 3644µs , Maximum: 3644µs  
+-----------------------------
+Thread 483 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 512 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 509 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 444 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 543 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 540 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 533 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 539 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 542 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 405 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 3649µs , Average: 3649µs , Maximum: 3649µs  
+-----------------------------
+Thread 355 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 470 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 486 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 455 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 495 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 505 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 474 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 481 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 456 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 531 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 451 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 449 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 447 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 461 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 484 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 530 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 538 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 498 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 488 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 485 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 493 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 527 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 441 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 494 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 534 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 535 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 532 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 537 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 364 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6556µs , Average: 6556µs , Maximum: 6556µs  
+-----------------------------
+Thread 363 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6559µs , Average: 6559µs , Maximum: 6559µs  
+-----------------------------
+Thread 357 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6560µs , Average: 6560µs , Maximum: 6560µs  
+-----------------------------
+Thread 380 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6562µs , Average: 6562µs , Maximum: 6562µs  
+-----------------------------
+Thread 365 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6716µs , Average: 6716µs , Maximum: 6716µs  
+-----------------------------
+Thread 386 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6490µs , Average: 6490µs , Maximum: 6490µs  
+-----------------------------
+Thread 398 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6493µs , Average: 6493µs , Maximum: 6493µs  
+-----------------------------
+Thread 400 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6500µs , Average: 6500µs , Maximum: 6500µs  
+-----------------------------
+Thread 387 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6502µs , Average: 6502µs , Maximum: 6502µs  
+-----------------------------
+Thread 497 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3994µs , Average: 3994µs , Maximum: 3994µs  
+-----------------------------
+Thread 459 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3988µs , Average: 3988µs , Maximum: 3988µs  
+-----------------------------
+Thread 504 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3993µs , Average: 3993µs , Maximum: 3993µs  
+-----------------------------
+Thread 463 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3985µs , Average: 3985µs , Maximum: 3985µs  
+-----------------------------
+Thread 466 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3967µs , Average: 3967µs , Maximum: 3967µs  
+-----------------------------
+Thread 507 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3984µs , Average: 3984µs , Maximum: 3984µs  
+-----------------------------
+Thread 469 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3976µs , Average: 3976µs , Maximum: 3976µs  
+-----------------------------
+Thread 510 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3943µs , Average: 3943µs , Maximum: 3943µs  
+-----------------------------
+Thread 445 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3947µs , Average: 3947µs , Maximum: 3947µs  
+-----------------------------
+Thread 518 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 2697µs , Average: 2697µs , Maximum: 2697µs  
+-----------------------------
+Thread 522 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 2688µs , Average: 2688µs , Maximum: 2688µs  
+-----------------------------
+Thread 368 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6558µs , Average: 6558µs , Maximum: 6558µs  
+-----------------------------
+Thread 379 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6562µs , Average: 6562µs , Maximum: 6562µs  
+-----------------------------
+Thread 385 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6559µs , Average: 6559µs , Maximum: 6559µs  
+-----------------------------
+Thread 389 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6498µs , Average: 6498µs , Maximum: 6498µs  
+-----------------------------
+Thread 382 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6561µs , Average: 6561µs , Maximum: 6561µs  
+-----------------------------
+Thread 427 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6497µs , Average: 6497µs , Maximum: 6497µs  
+-----------------------------
+Thread 407 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6504µs , Average: 6504µs , Maximum: 6504µs  
+-----------------------------
+Thread 376 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6556µs , Average: 6556µs , Maximum: 6556µs  
+-----------------------------
+Thread 390 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6499µs , Average: 6499µs , Maximum: 6499µs  
+-----------------------------
+Thread 404 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6500µs , Average: 6500µs , Maximum: 6500µs  
+-----------------------------
+Thread 395 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6505µs , Average: 6505µs , Maximum: 6505µs  
+-----------------------------
+Thread 399 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 6508µs , Average: 6508µs , Maximum: 6508µs  
+-----------------------------
+Thread 437 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 6509µs , Average: 6509µs , Maximum: 6509µs  
+-----------------------------
+Thread 492 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3986µs , Average: 3986µs , Maximum: 3986µs  
+-----------------------------
+Thread 496 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3990µs , Average: 3990µs , Maximum: 3990µs  
+-----------------------------
+Thread 487 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3994µs , Average: 3994µs , Maximum: 3994µs  
+-----------------------------
+Thread 506 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3997µs , Average: 3997µs , Maximum: 3997µs  
+-----------------------------
+Thread 477 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3966µs , Average: 3966µs , Maximum: 3966µs  
+-----------------------------
+Thread 491 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3980µs , Average: 3980µs , Maximum: 3980µs  
+-----------------------------
+Thread 511 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3996µs , Average: 3996µs , Maximum: 3996µs  
+-----------------------------
+Thread 502 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3992µs , Average: 3992µs , Maximum: 3992µs  
+-----------------------------
+Thread 453 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3989µs , Average: 3989µs , Maximum: 3989µs  
+-----------------------------
+Thread 490 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3969µs , Average: 3969µs , Maximum: 3969µs  
+-----------------------------
+Thread 458 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3982µs , Average: 3982µs , Maximum: 3982µs  
+-----------------------------
+Thread 434 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6492µs , Average: 6492µs , Maximum: 6492µs  
+-----------------------------
+Thread 443 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3968µs , Average: 3968µs , Maximum: 3968µs  
+-----------------------------
+Thread 446 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 3949µs , Average: 3949µs , Maximum: 3949µs  
+-----------------------------
+Thread 429 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6502µs , Average: 6502µs , Maximum: 6502µs  
+-----------------------------
+Thread 393 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6504µs , Average: 6504µs , Maximum: 6504µs  
+-----------------------------
+Thread 421 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6502µs , Average: 6502µs , Maximum: 6502µs  
+-----------------------------
+Thread 436 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6494µs , Average: 6494µs , Maximum: 6494µs  
+-----------------------------
+Thread 388 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6506µs , Average: 6506µs , Maximum: 6506µs  
+-----------------------------
+Thread 406 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 6495µs , Average: 6495µs , Maximum: 6495µs  
+-----------------------------
+Thread 452 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3987µs , Average: 3987µs , Maximum: 3987µs  
+-----------------------------
+Thread 499 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3990µs , Average: 3990µs , Maximum: 3990µs  
+-----------------------------
+Thread 473 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3986µs , Average: 3986µs , Maximum: 3986µs  
+-----------------------------
+Thread 462 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3983µs , Average: 3983µs , Maximum: 3983µs  
+-----------------------------
+Thread 457 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3961µs , Average: 3961µs , Maximum: 3961µs  
+-----------------------------
+Thread 468 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3985µs , Average: 3985µs , Maximum: 3985µs  
+-----------------------------
+Thread 450 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3962µs , Average: 3962µs , Maximum: 3962µs  
+-----------------------------
+Thread 503 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3983µs , Average: 3983µs , Maximum: 3983µs  
+-----------------------------
+Thread 516 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 2697µs , Average: 2697µs , Maximum: 2697µs  
+-----------------------------
+Thread 517 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 2698µs , Average: 2698µs , Maximum: 2698µs  
+-----------------------------
+Thread 528 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 2687µs , Average: 2687µs , Maximum: 2687µs  
+-----------------------------
+Thread 448 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 3985µs , Average: 3985µs , Maximum: 3985µs  
+-----------------------------
+Thread 508 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 3994µs , Average: 3994µs , Maximum: 3994µs  
+-----------------------------
+Thread 412 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 6507µs , Average: 6507µs , Maximum: 6507µs  
+-----------------------------
+Thread 411 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 6496µs , Average: 6496µs , Maximum: 6496µs  
+-----------------------------
+Thread 478 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 3954µs , Average: 3954µs , Maximum: 3954µs  
+-----------------------------
+Thread 482 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 3986µs , Average: 3986µs , Maximum: 3986µs  
+-----------------------------
+Thread 442 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 3965µs , Average: 3965µs , Maximum: 3965µs  
+-----------------------------
+Thread 515 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 2697µs , Average: 2697µs , Maximum: 2697µs  
+-----------------------------
+Thread 520 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 2698µs , Average: 2698µs , Maximum: 2698µs  
+-----------------------------
+Thread 544 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 2690µs , Average: 2690µs , Maximum: 2690µs  
+-----------------------------
+Thread 519 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 2682µs , Average: 2682µs , Maximum: 2682µs  
+-----------------------------
+Thread 551 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 558 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 571 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 574 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 471 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 3983µs , Average: 3983µs , Maximum: 3983µs  
+-----------------------------
+Thread 475 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 3982µs , Average: 3982µs , Maximum: 3982µs  
+-----------------------------
+Thread 526 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 2697µs , Average: 2697µs , Maximum: 2697µs  
+-----------------------------
+Thread 464 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 3985µs , Average: 3985µs , Maximum: 3985µs  
+-----------------------------
+Thread 514 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 2697µs , Average: 2697µs , Maximum: 2697µs  
+-----------------------------
+Thread 525 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 2690µs , Average: 2690µs , Maximum: 2690µs  
+-----------------------------
+Thread 554 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 563 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 568 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 566 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 529 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 4397µs , Average: 4397µs , Maximum: 4397µs  
+-----------------------------
+Thread 524 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 4400µs , Average: 4400µs , Maximum: 4400µs  
+-----------------------------
+Thread 552 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 4406µs , Average: 4406µs , Maximum: 4406µs  
+-----------------------------
+Thread 555 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 4406µs , Average: 4406µs , Maximum: 4406µs  
+-----------------------------
+Thread 550 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 4406µs , Average: 4406µs , Maximum: 4406µs  
+-----------------------------
+Thread 565 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 2524µs , Average: 2524µs , Maximum: 2524µs  
+-----------------------------
+Thread 572 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 2519µs , Average: 2519µs , Maximum: 2519µs  
+-----------------------------
+Thread 546 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 588 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 576 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 605 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 608 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 561 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 126µs , Average: 126µs , Maximum: 126µs  
+-----------------------------
+Thread 581 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 379µs , Average: 379µs , Maximum: 379µs  
+-----------------------------
+Thread 591 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 372µs , Average: 372µs , Maximum: 372µs  
+-----------------------------
+Thread 595 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 369µs , Average: 369µs , Maximum: 369µs  
+-----------------------------
+Thread 619 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 637 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 560 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 126µs , Average: 126µs , Maximum: 126µs  
+-----------------------------
+Thread 642 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 635 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 631 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 593 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 370µs , Average: 370µs , Maximum: 370µs  
+-----------------------------
+Thread 596 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 370µs , Average: 370µs , Maximum: 370µs  
+-----------------------------
+Thread 598 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 371µs , Average: 371µs , Maximum: 371µs  
+-----------------------------
+Thread 616 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 643 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 636 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 658 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 661 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 674 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 688 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 701 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 702 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 765 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 736 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 764 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 777 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 784 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 785 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 769 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 743 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 548 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 115µs , Average: 115µs , Maximum: 115µs  
+-----------------------------
+Thread 634 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 628 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 621 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 739 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 793 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 727 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 717 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 732 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 710 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 740 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 722 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 600 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 369µs , Average: 369µs , Maximum: 369µs  
+-----------------------------
+Thread 585 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 382µs , Average: 382µs , Maximum: 382µs  
+-----------------------------
+Thread 597 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 370µs , Average: 370µs , Maximum: 370µs  
+-----------------------------
+Thread 609 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 610 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 623 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 647 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 651 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 669 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 670 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 667 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 659 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 684 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 686 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 692 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 694 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 700 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 713 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 790 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 749 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 750 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 810 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 787 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 783 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 801 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 786 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 808 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 822 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 825 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 536 terminated! 
+Gender: Female, # of loops: 8 
+Queue times: Minimum: 124µs , Average: 1260µs , Maximum: 2397µs  
+-----------------------------
+Thread 648 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 641 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 638 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 607 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 372µs , Average: 372µs , Maximum: 372µs  
+-----------------------------
+Thread 639 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 792 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 755 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 774 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 745 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 757 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 644 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 668 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 664 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 663 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 680 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 685 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 690 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 650 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 611 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 696 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 671 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 683 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 737 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 734 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 795 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 788 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 746 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 729 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 803 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 775 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 852 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 854 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 860 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 864 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 656 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 613 terminated! 
+Gender: Female, # of loops: 6 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 660 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 677 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 691 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 672 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 813 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 811 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 797 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 824 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 828 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 871 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 723 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 738 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 761 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 715 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 705 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 791 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 843 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 848 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 653 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 863 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 823 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 826 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 867 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 873 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 874 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 814 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 816 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 771 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 820 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 827 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 830 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 838 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 844 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 821 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 847 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 862 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 836 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 866 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 886 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 725 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 875 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 839 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 853 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 615 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 15404µs , Average: 15404µs , Maximum: 15404µs  
+-----------------------------
+Thread 622 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 15395µs , Average: 15395µs , Maximum: 15395µs  
+-----------------------------
+Thread 541 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 4401µs , Average: 9479µs , Maximum: 14557µs  
+-----------------------------
+Thread 523 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 4398µs , Average: 9479µs , Maximum: 14561µs  
+-----------------------------
+Thread 479 terminated! 
+Gender: Male, # of loops: 7 
+Queue times: Minimum: 4692µs , Average: 9629µs , Maximum: 14566µs  
+-----------------------------
+Thread 649 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 15389µs , Average: 15389µs , Maximum: 15389µs  
+-----------------------------
+Thread 556 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 4405µs , Average: 9468µs , Maximum: 14532µs  
+-----------------------------
+Thread 617 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 15401µs , Average: 15401µs , Maximum: 15401µs  
+-----------------------------
+Thread 630 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 15380µs , Average: 15380µs , Maximum: 15380µs  
+-----------------------------
+Thread 625 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 14552µs , Average: 14552µs , Maximum: 14552µs  
+-----------------------------
+Thread 567 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 2520µs , Average: 8525µs , Maximum: 14530µs  
+-----------------------------
+Thread 604 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14559µs , Average: 14559µs , Maximum: 14559µs  
+-----------------------------
+Thread 590 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14547µs , Average: 14547µs , Maximum: 14547µs  
+-----------------------------
+Thread 601 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14558µs , Average: 14558µs , Maximum: 14558µs  
+-----------------------------
+Thread 632 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 14554µs , Average: 14554µs , Maximum: 14554µs  
+-----------------------------
+Thread 582 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14526µs , Average: 14526µs , Maximum: 14526µs  
+-----------------------------
+Thread 580 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14528µs , Average: 14528µs , Maximum: 14528µs  
+-----------------------------
+Thread 579 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14542µs , Average: 14542µs , Maximum: 14542µs  
+-----------------------------
+Thread 589 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14544µs , Average: 14544µs , Maximum: 14544µs  
+-----------------------------
+Thread 583 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14531µs , Average: 14531µs , Maximum: 14531µs  
+-----------------------------
+Thread 594 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14550µs , Average: 14550µs , Maximum: 14550µs  
+-----------------------------
+Thread 549 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 2523µs , Average: 8525µs , Maximum: 14528µs  
+-----------------------------
+Thread 584 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14530µs , Average: 14530µs , Maximum: 14530µs  
+-----------------------------
+Thread 577 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14535µs , Average: 14535µs , Maximum: 14535µs  
+-----------------------------
+Thread 575 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14540µs , Average: 14540µs , Maximum: 14540µs  
+-----------------------------
+Thread 564 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 4407µs , Average: 9475µs , Maximum: 14543µs  
+-----------------------------
+Thread 570 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 2523µs , Average: 8535µs , Maximum: 14547µs  
+-----------------------------
+Thread 646 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 15383µs , Average: 15383µs , Maximum: 15383µs  
+-----------------------------
+Thread 652 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 15387µs , Average: 15387µs , Maximum: 15387µs  
+-----------------------------
+Thread 602 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14556µs , Average: 14556µs , Maximum: 14556µs  
+-----------------------------
+Thread 603 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14551µs , Average: 14551µs , Maximum: 14551µs  
+-----------------------------
+Thread 587 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14529µs , Average: 14529µs , Maximum: 14529µs  
+-----------------------------
+Thread 573 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 2525µs , Average: 8527µs , Maximum: 14529µs  
+-----------------------------
+Thread 606 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14554µs , Average: 14554µs , Maximum: 14554µs  
+-----------------------------
+Thread 599 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14549µs , Average: 14549µs , Maximum: 14549µs  
+-----------------------------
+Thread 618 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 15400µs , Average: 15400µs , Maximum: 15400µs  
+-----------------------------
+Thread 557 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 4407µs , Average: 9471µs , Maximum: 14535µs  
+-----------------------------
+Thread 626 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 14557µs , Average: 14557µs , Maximum: 14557µs  
+-----------------------------
+Thread 521 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 4402µs , Average: 9476µs , Maximum: 14551µs  
+-----------------------------
+Thread 697 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 747 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8951µs , Average: 8951µs , Maximum: 8951µs  
+-----------------------------
+Thread 773 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8939µs , Average: 8939µs , Maximum: 8939µs  
+-----------------------------
+Thread 759 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8940µs , Average: 8940µs , Maximum: 8940µs  
+-----------------------------
+Thread 569 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 2523µs , Average: 8526µs , Maximum: 14530µs  
+-----------------------------
+Thread 553 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 4406µs , Average: 9472µs , Maximum: 14539µs  
+-----------------------------
+Thread 547 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 14528µs , Average: 14528µs , Maximum: 14528µs  
+-----------------------------
+Thread 720 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9082µs , Average: 9082µs , Maximum: 9082µs  
+-----------------------------
+Thread 741 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9093µs , Average: 9093µs , Maximum: 9093µs  
+-----------------------------
+Thread 756 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9101µs , Average: 9101µs , Maximum: 9101µs  
+-----------------------------
+Thread 772 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9100µs , Average: 9100µs , Maximum: 9100µs  
+-----------------------------
+Thread 721 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9087µs , Average: 9087µs , Maximum: 9087µs  
+-----------------------------
+Thread 794 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9095µs , Average: 9095µs , Maximum: 9095µs  
+-----------------------------
+Thread 735 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9101µs , Average: 9101µs , Maximum: 9101µs  
+-----------------------------
+Thread 726 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9091µs , Average: 9091µs , Maximum: 9091µs  
+-----------------------------
+Thread 778 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9158µs , Average: 9158µs , Maximum: 9158µs  
+-----------------------------
+Thread 742 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9101µs , Average: 9101µs , Maximum: 9101µs  
+-----------------------------
+Thread 789 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9166µs , Average: 9166µs , Maximum: 9166µs  
+-----------------------------
+Thread 766 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8953µs , Average: 8953µs , Maximum: 8953µs  
+-----------------------------
+Thread 592 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 14548µs , Average: 14548µs , Maximum: 14548µs  
+-----------------------------
+Thread 645 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 15384µs , Average: 15384µs , Maximum: 15384µs  
+-----------------------------
+Thread 586 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 14530µs , Average: 14530µs , Maximum: 14530µs  
+-----------------------------
+Thread 578 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 14527µs , Average: 14527µs , Maximum: 14527µs  
+-----------------------------
+Thread 624 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 14559µs , Average: 14559µs , Maximum: 14559µs  
+-----------------------------
+Thread 620 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 15396µs , Average: 15396µs , Maximum: 15396µs  
+-----------------------------
+Thread 559 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 4407µs , Average: 9469µs , Maximum: 14532µs  
+-----------------------------
+Thread 562 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 4407µs , Average: 9469µs , Maximum: 14532µs  
+-----------------------------
+Thread 675 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9044µs , Average: 9044µs , Maximum: 9044µs  
+-----------------------------
+Thread 676 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9046µs , Average: 9046µs , Maximum: 9046µs  
+-----------------------------
+Thread 655 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 689 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9049µs , Average: 9049µs , Maximum: 9049µs  
+-----------------------------
+Thread 695 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 698 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9050µs , Average: 9050µs , Maximum: 9050µs  
+-----------------------------
+Thread 699 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9052µs , Average: 9052µs , Maximum: 9052µs  
+-----------------------------
+Thread 545 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 12785µs , Average: 12785µs , Maximum: 12785µs  
+-----------------------------
+Thread 627 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 14555µs , Average: 14555µs , Maximum: 14555µs  
+-----------------------------
+Thread 640 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 15388µs , Average: 15388µs , Maximum: 15388µs  
+-----------------------------
+Thread 779 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9161µs , Average: 9161µs , Maximum: 9161µs  
+-----------------------------
+Thread 758 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9096µs , Average: 9096µs , Maximum: 9096µs  
+-----------------------------
+Thread 728 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9163µs , Average: 9163µs , Maximum: 9163µs  
+-----------------------------
+Thread 812 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9102µs , Average: 9102µs , Maximum: 9102µs  
+-----------------------------
+Thread 752 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9162µs , Average: 9162µs , Maximum: 9162µs  
+-----------------------------
+Thread 704 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9084µs , Average: 9084µs , Maximum: 9084µs  
+-----------------------------
+Thread 768 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9167µs , Average: 9167µs , Maximum: 9167µs  
+-----------------------------
+Thread 709 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9083µs , Average: 9083µs , Maximum: 9083µs  
+-----------------------------
+Thread 796 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9166µs , Average: 9166µs , Maximum: 9166µs  
+-----------------------------
+Thread 802 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 8926µs , Average: 8926µs , Maximum: 8926µs  
+-----------------------------
+Thread 733 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 8922µs , Average: 8922µs , Maximum: 8922µs  
+-----------------------------
+Thread 817 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10058µs , Average: 10058µs , Maximum: 10058µs  
+-----------------------------
+Thread 629 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 14557µs , Average: 14557µs , Maximum: 14557µs  
+-----------------------------
+Thread 662 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9047µs , Average: 9047µs , Maximum: 9047µs  
+-----------------------------
+Thread 614 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 15405µs , Average: 15405µs , Maximum: 15405µs  
+-----------------------------
+Thread 665 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9046µs , Average: 9046µs , Maximum: 9046µs  
+-----------------------------
+Thread 633 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 16737µs , Average: 16737µs , Maximum: 16737µs  
+-----------------------------
+Thread 679 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9049µs , Average: 9049µs , Maximum: 9049µs  
+-----------------------------
+Thread 682 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9050µs , Average: 9050µs , Maximum: 9050µs  
+-----------------------------
+Thread 687 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 712 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9165µs , Average: 9165µs , Maximum: 9165µs  
+-----------------------------
+Thread 719 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 9133µs , Average: 9133µs , Maximum: 9133µs  
+-----------------------------
+Thread 829 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10084µs , Average: 10084µs , Maximum: 10084µs  
+-----------------------------
+Thread 832 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10086µs , Average: 10086µs , Maximum: 10086µs  
+-----------------------------
+Thread 835 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10091µs , Average: 10091µs , Maximum: 10091µs  
+-----------------------------
+Thread 837 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10090µs , Average: 10090µs , Maximum: 10090µs  
+-----------------------------
+Thread 842 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10092µs , Average: 10092µs , Maximum: 10092µs  
+-----------------------------
+Thread 849 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10088µs , Average: 10088µs , Maximum: 10088µs  
+-----------------------------
+Thread 856 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10089µs , Average: 10089µs , Maximum: 10089µs  
+-----------------------------
+Thread 762 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9100µs , Average: 9100µs , Maximum: 9100µs  
+-----------------------------
+Thread 798 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9084µs , Average: 9084µs , Maximum: 9084µs  
+-----------------------------
+Thread 714 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9098µs , Average: 9098µs , Maximum: 9098µs  
+-----------------------------
+Thread 707 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9160µs , Average: 9160µs , Maximum: 9160µs  
+-----------------------------
+Thread 806 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9102µs , Average: 9102µs , Maximum: 9102µs  
+-----------------------------
+Thread 780 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9105µs , Average: 9105µs , Maximum: 9105µs  
+-----------------------------
+Thread 800 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9104µs , Average: 9104µs , Maximum: 9104µs  
+-----------------------------
+Thread 706 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9162µs , Average: 9162µs , Maximum: 9162µs  
+-----------------------------
+Thread 708 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9102µs , Average: 9102µs , Maximum: 9102µs  
+-----------------------------
+Thread 703 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9086µs , Average: 9086µs , Maximum: 9086µs  
+-----------------------------
+Thread 804 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9165µs , Average: 9165µs , Maximum: 9165µs  
+-----------------------------
+Thread 807 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 8934µs , Average: 8934µs , Maximum: 8934µs  
+-----------------------------
+Thread 716 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9167µs , Average: 9167µs , Maximum: 9167µs  
+-----------------------------
+Thread 767 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9101µs , Average: 9101µs , Maximum: 9101µs  
+-----------------------------
+Thread 711 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9102µs , Average: 9102µs , Maximum: 9102µs  
+-----------------------------
+Thread 870 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8925µs , Average: 8925µs , Maximum: 8925µs  
+-----------------------------
+Thread 657 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 673 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9044µs , Average: 9044µs , Maximum: 9044µs  
+-----------------------------
+Thread 678 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9047µs , Average: 9047µs , Maximum: 9047µs  
+-----------------------------
+Thread 681 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9048µs , Average: 9048µs , Maximum: 9048µs  
+-----------------------------
+Thread 693 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9047µs , Average: 9047µs , Maximum: 9047µs  
+-----------------------------
+Thread 731 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9164µs , Average: 9164µs , Maximum: 9164µs  
+-----------------------------
+Thread 809 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9168µs , Average: 9168µs , Maximum: 9168µs  
+-----------------------------
+Thread 799 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9170µs , Average: 9170µs , Maximum: 9170µs  
+-----------------------------
+Thread 763 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9100µs , Average: 9100µs , Maximum: 9100µs  
+-----------------------------
+Thread 754 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 9158µs , Average: 9158µs , Maximum: 9158µs  
+-----------------------------
+Thread 818 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 10119µs , Average: 10119µs , Maximum: 10119µs  
+-----------------------------
+Thread 840 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 10090µs , Average: 10090µs , Maximum: 10090µs  
+-----------------------------
+Thread 851 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 10089µs , Average: 10089µs , Maximum: 10089µs  
+-----------------------------
+Thread 881 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 8931µs , Average: 8931µs , Maximum: 8931µs  
+-----------------------------
+Thread 883 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9166µs , Average: 9166µs , Maximum: 9166µs  
+-----------------------------
+Thread 885 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9166µs , Average: 9166µs , Maximum: 9166µs  
+-----------------------------
+Thread 857 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 10873µs , Average: 10873µs , Maximum: 10873µs  
+-----------------------------
+Thread 855 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 760 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9106µs , Average: 9106µs , Maximum: 9106µs  
+-----------------------------
+Thread 776 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 8945µs , Average: 8945µs , Maximum: 8945µs  
+-----------------------------
+Thread 730 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9100µs , Average: 9100µs , Maximum: 9100µs  
+-----------------------------
+Thread 744 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 8945µs , Average: 8945µs , Maximum: 8945µs  
+-----------------------------
+Thread 805 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 8948µs , Average: 8948µs , Maximum: 8948µs  
+-----------------------------
+Thread 815 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10056µs , Average: 10056µs , Maximum: 10056µs  
+-----------------------------
+Thread 858 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 11059µs , Average: 11059µs , Maximum: 11059µs  
+-----------------------------
+Thread 878 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 8925µs , Average: 8925µs , Maximum: 8925µs  
+-----------------------------
+Thread 887 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 9368µs , Average: 9368µs , Maximum: 9368µs  
+-----------------------------
+Thread 893 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 724 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9104µs , Average: 9104µs , Maximum: 9104µs  
+-----------------------------
+Thread 751 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9157µs , Average: 9157µs , Maximum: 9157µs  
+-----------------------------
+Thread 718 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 9163µs , Average: 9163µs , Maximum: 9163µs  
+-----------------------------
+Thread 753 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 8921µs , Average: 8921µs , Maximum: 8921µs  
+-----------------------------
+Thread 819 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10357µs , Average: 10357µs , Maximum: 10357µs  
+-----------------------------
+Thread 834 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10089µs , Average: 10089µs , Maximum: 10089µs  
+-----------------------------
+Thread 841 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10091µs , Average: 10091µs , Maximum: 10091µs  
+-----------------------------
+Thread 845 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10092µs , Average: 10092µs , Maximum: 10092µs  
+-----------------------------
+Thread 850 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 10090µs , Average: 10090µs , Maximum: 10090µs  
+-----------------------------
+Thread 876 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 8922µs , Average: 8922µs , Maximum: 8922µs  
+-----------------------------
+Thread 880 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 8929µs , Average: 8929µs , Maximum: 8929µs  
+-----------------------------
+Thread 892 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 748 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 9089µs , Average: 9089µs , Maximum: 9089µs  
+-----------------------------
+Thread 781 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 9101µs , Average: 9101µs , Maximum: 9101µs  
+-----------------------------
+Thread 654 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 10056µs , Average: 10056µs , Maximum: 10056µs  
+-----------------------------
+Thread 861 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 11062µs , Average: 11062µs , Maximum: 11062µs  
+-----------------------------
+Thread 872 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 8925µs , Average: 8925µs , Maximum: 8925µs  
+-----------------------------
+Thread 877 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 8925µs , Average: 8925µs , Maximum: 8925µs  
+-----------------------------
+Thread 666 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 9053µs , Average: 9053µs , Maximum: 9053µs  
+-----------------------------
+Thread 831 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 10084µs , Average: 10084µs , Maximum: 10084µs  
+-----------------------------
+Thread 782 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 9162µs , Average: 9162µs , Maximum: 9162µs  
+-----------------------------
+Thread 612 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 20263µs , Average: 20263µs , Maximum: 20263µs  
+-----------------------------
+Thread 770 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 8930µs , Average: 8930µs , Maximum: 8930µs  
+-----------------------------
+Thread 859 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 11061µs , Average: 11061µs , Maximum: 11061µs  
+-----------------------------
+Thread 869 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 8922µs , Average: 8922µs , Maximum: 8922µs  
+-----------------------------
+Thread 833 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 10087µs , Average: 10087µs , Maximum: 10087µs  
+-----------------------------
+Thread 882 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 8934µs , Average: 8934µs , Maximum: 8934µs  
+-----------------------------
+Thread 879 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 8927µs , Average: 8927µs , Maximum: 8927µs  
+-----------------------------
+Thread 888 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 9373µs , Average: 9373µs , Maximum: 9373µs  
+-----------------------------
+Thread 846 terminated! 
+Gender: Female, # of loops: 6 
+Queue times: Minimum: 4459µs , Average: 4459µs , Maximum: 4459µs  
+-----------------------------
+Thread 868 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 4457µs , Average: 4457µs , Maximum: 4457µs  
+-----------------------------
+Thread 884 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 4194µs , Average: 4194µs , Maximum: 4194µs  
+-----------------------------
+Thread 894 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 3953µs , Average: 3953µs , Maximum: 3953µs  
+-----------------------------
+Thread 865 terminated! 
+Gender: Female, # of loops: 6 
+Queue times: Minimum: 4458µs , Average: 4458µs , Maximum: 4458µs  
+-----------------------------
+Thread 891 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 2410µs , Average: 2410µs , Maximum: 2410µs  
+-----------------------------
+Thread 895 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 965 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 978 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 925 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 968 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 928 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 915 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 913 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 949 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 938 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 963 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 983 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 916 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 979 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 939 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 920 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 927 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 914 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 971 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 921 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 996 terminated! 
+Gender: Female, # of loops: 1 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 918 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 933 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 906 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 922 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 923 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 911 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 957 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 940 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 993 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 890 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 941 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 901 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 902 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 924 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 943 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 995 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 964 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 966 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 908 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 969 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 962 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 950 terminated! 
+Gender: Female, # of loops: 3 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 889 terminated! 
+Gender: Female, # of loops: 2 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 944 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 936 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 896 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 904 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 900 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 926 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 899 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 990 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 945 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 910 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 937 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 994 terminated! 
+Gender: Female, # of loops: 4 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 930 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 942 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 932 terminated! 
+Gender: Female, # of loops: 5 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 935 terminated! 
+Gender: Female, # of loops: 6 
+Queue times: Minimum: 0µs , Average: 0µs , Maximum: 0µs  
+-----------------------------
+Thread 909 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6862µs , Average: 6862µs , Maximum: 6862µs  
+-----------------------------
+Thread 955 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6959µs , Average: 6959µs , Maximum: 6959µs  
+-----------------------------
+Thread 989 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6955µs , Average: 6955µs , Maximum: 6955µs  
+-----------------------------
+Thread 974 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6957µs , Average: 6957µs , Maximum: 6957µs  
+-----------------------------
+Thread 960 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6967µs , Average: 6967µs , Maximum: 6967µs  
+-----------------------------
+Thread 898 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6963µs , Average: 6963µs , Maximum: 6963µs  
+-----------------------------
+Thread 919 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 931 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6967µs , Average: 6967µs , Maximum: 6967µs  
+-----------------------------
+Thread 897 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6959µs , Average: 6959µs , Maximum: 6959µs  
+-----------------------------
+Thread 929 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6955µs , Average: 6955µs , Maximum: 6955µs  
+-----------------------------
+Thread 958 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6951µs , Average: 6951µs , Maximum: 6951µs  
+-----------------------------
+Thread 975 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6962µs , Average: 6962µs , Maximum: 6962µs  
+-----------------------------
+Thread 972 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6951µs , Average: 6951µs , Maximum: 6951µs  
+-----------------------------
+Thread 954 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 6952µs , Average: 6952µs , Maximum: 6952µs  
+-----------------------------
+Thread 998 terminated! 
+Gender: Male, # of loops: 1 
+Queue times: Minimum: 5531µs , Average: 5531µs , Maximum: 5531µs  
+-----------------------------
+Thread 946 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6957µs , Average: 6957µs , Maximum: 6957µs  
+-----------------------------
+Thread 903 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 980 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6953µs , Average: 6953µs , Maximum: 6953µs  
+-----------------------------
+Thread 907 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6955µs , Average: 6955µs , Maximum: 6955µs  
+-----------------------------
+Thread 948 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6963µs , Average: 6963µs , Maximum: 6963µs  
+-----------------------------
+Thread 987 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 986 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6961µs , Average: 6961µs , Maximum: 6961µs  
+-----------------------------
+Thread 961 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6966µs , Average: 6966µs , Maximum: 6966µs  
+-----------------------------
+Thread 917 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6952µs , Average: 6952µs , Maximum: 6952µs  
+-----------------------------
+Thread 967 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6952µs , Average: 6952µs , Maximum: 6952µs  
+-----------------------------
+Thread 982 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6954µs , Average: 6954µs , Maximum: 6954µs  
+-----------------------------
+Thread 953 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 999 terminated! 
+Gender: Male, # of loops: 2 
+Queue times: Minimum: 5532µs , Average: 5532µs , Maximum: 5532µs  
+-----------------------------
+Thread 951 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6953µs , Average: 6953µs , Maximum: 6953µs  
+-----------------------------
+Thread 947 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6963µs , Average: 6963µs , Maximum: 6963µs  
+-----------------------------
+Thread 970 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6954µs , Average: 6954µs , Maximum: 6954µs  
+-----------------------------
+Thread 934 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6964µs , Average: 6964µs , Maximum: 6964µs  
+-----------------------------
+Thread 988 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6950µs , Average: 6950µs , Maximum: 6950µs  
+-----------------------------
+Thread 991 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6951µs , Average: 6951µs , Maximum: 6951µs  
+-----------------------------
+Thread 956 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 985 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6951µs , Average: 6951µs , Maximum: 6951µs  
+-----------------------------
+Thread 981 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6966µs , Average: 6966µs , Maximum: 6966µs  
+-----------------------------
+Thread 984 terminated! 
+Gender: Male, # of loops: 3 
+Queue times: Minimum: 6957µs , Average: 6957µs , Maximum: 6957µs  
+-----------------------------
+Thread 973 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 6932µs , Average: 6932µs , Maximum: 6932µs  
+-----------------------------
+Thread 977 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 6948µs , Average: 6948µs , Maximum: 6948µs  
+-----------------------------
+Thread 912 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 6949µs , Average: 6949µs , Maximum: 6949µs  
+-----------------------------
+Thread 952 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 6961µs , Average: 6961µs , Maximum: 6961µs  
+-----------------------------
+Thread 959 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 997 terminated! 
+Gender: Male, # of loops: 4 
+Queue times: Minimum: 5530µs , Average: 5530µs , Maximum: 5530µs  
+-----------------------------
+Thread 992 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 6949µs , Average: 6949µs , Maximum: 6949µs  
+-----------------------------
+Thread 905 terminated! 
+Gender: Male, # of loops: 5 
+Queue times: Minimum: 6956µs , Average: 6956µs , Maximum: 6956µs  
+-----------------------------
+Thread 976 terminated! 
+Gender: Male, # of loops: 6 
+Queue times: Minimum: 6952µs , Average: 6952µs , Maximum: 6952µs  
+-----------------------------
+
+The simulation ran with ./bathroomsim 1000 15.0 5.0 3 
+The simulation has finished with runtime of: 0.078512 seconds 
+The number of uses was: 2564 
+The amount of time the bathroom was vacant was: 0.002773 seconds 
+The amount of time the bathroom was occupied was: 0.075739 seconds 
+The average amount of people in the queue was: 42.505 
+The average number of users in the bathroom at a time was: 31.724 

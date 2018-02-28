@@ -1,0 +1,15 @@
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.421473] User 1002 is closing file descriptor: 3
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.423630] User 1002 is opening file: /etc/ld.so.cache
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.423635] User 1002 is closing file descriptor: 3
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.423641] User 1002 is opening file: /lib/x86_64-linux-gnu/libc.so.6
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.423667] User 1002 is closing file descriptor: 3
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.423785] User 1002 is opening file: Documents/test.txt
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424513] User 1002 read from file descriptor: 3 but that read contained malicious code!
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424521] User 1002 read from file descriptor: 3 but that read contained malicious code!
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424527] User 1002 is closing file descriptor: 3
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424534] User 1002 is closing file descriptor: 1
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424535] User 1002 is closing file descriptor: 2
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.424833] User 1001 read from file descriptor: 13 but that read contained malicious code!
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.645510] User 1001 is opening file: /etc/localtime
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.645538] User 1001 is closing file descriptor: 17
+Jan 28 20:10:48 CS-3013-VM kernel: [  157.647371] User 1001 is opening file: /etc/localtime

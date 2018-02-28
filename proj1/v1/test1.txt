@@ -1,0 +1,15 @@
+0
+1
+2
+-al
+/home
+2
+
+/
+a
+sleep 2
+3
+p
+c
+/home
+p
